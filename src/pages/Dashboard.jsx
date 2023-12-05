@@ -71,7 +71,7 @@ const Dashbard = () => {
           
         </ul>
       </section>
-      <main className={` px-[5rem] pl-[17rem] md:justify-center pt-[2.5rem] min-2xl:bg-green-900`}>
+      <main className={` px-[5rem] pl-[17rem] md:justify-center pt-[2.5rem] `}>
         <Outlet />
       </main>
     </div>
